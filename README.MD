@@ -7,7 +7,7 @@ Welcome to the BIT BLITZ MiniGames!
 
 <h2>About</h2>
 
-This chess game is part of the minigames created for the CSE 1325 Object-Oriented Programming class at the University of Texas at Arlington (UTA). It is one of the options available in the BIT BLITZ collection out of a Number Guesser (by Gurpreet Banwait), Movie Suggester (Gurpreet Bainwait), UNO (Thanushri Shrub), and Hangman (Emma Slonaker).
+This chess game is part of the minigames that Keven Olvera created for the CSE 1325 Object-Oriented Programming class at the University of Texas at Arlington (UTA). It is one of the options available in the BIT BLITZ collection out of a Number Guesser (by Gurpreet Banwait), Movie Suggester (Gurpreet Bainwait), UNO (Thanushri Shrub), and Hangman (Emma Slonaker).
 
 <h2>Game Information</h2>
 
