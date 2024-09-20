@@ -1,6 +1,5 @@
 <HTML lang="eng">
 <Body>
-  <Main>
 
 <h1>
 Welcome to the BIT BLITZ MiniGames!
@@ -42,6 +41,5 @@ Email: kevolveraaa101@gmail.com
 
 </footer>
 
-    </Main>
   </Body> 
 </HTML>
